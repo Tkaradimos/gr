@@ -90,7 +90,7 @@ author:
   youtube          : "https://www.youtube.com/channel/UCXRT71xdiJVlbgMpeMvUZ3g"
 
 
-# Reading Files
+#Reading Files
 include:
   - .htaccess
   - _pages
@@ -125,6 +125,7 @@ keep_files:
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
 
 # Conversion
 markdown: kramdown
@@ -175,7 +176,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
 
 
 # Archives
@@ -255,10 +255,10 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: "single"
+      layout: single
       author_profile: true
       read_time: true
-      comments: #true
+      comments: # true
       share: true
       related: true
   - scope:
@@ -289,3 +289,5 @@ defaults:
       layout: single
       header: no
       show_meta: false
+
+theme: jekyll-theme-cayman
