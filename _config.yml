@@ -9,6 +9,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 #theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+#Site Settings
 locale                   : "gr-GR"
 title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
