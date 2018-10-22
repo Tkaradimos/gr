@@ -17,7 +17,7 @@ name                     : "mibook"
 description              : "Making Interactivity Greek Book."
 url                      : "https://tkaradimos.github.io"
 baseurl                  : "/gr"
-repository               : "TKaradimos/gr"
+repository               : "Tkaradimos/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -66,7 +66,7 @@ author:
   location         :
   email            :
   uri              :
-  home             : "https://tkaradimos.github.io/gr"
+  home             : "https://tkaradimos.github.io/gr/"
   bitbucket        :
   codepen          :
   dribbble         :
