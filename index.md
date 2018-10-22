@@ -13,6 +13,8 @@ excerpt: 'Σχεδιασμός και κατασκευή συνεργατικώ�
 
 <div class="feature__wrapper">
 
+  {% include fb_timeline.html type="right" index=random %}
+
   {% assign random = site.time | date: "%s%N" | modulo: site.biography.size %}
 
   {% include feature_col.html id="biography" type="left" index=random %}
