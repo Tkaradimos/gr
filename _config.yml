@@ -9,19 +9,17 @@ remote_theme: "mmistakes/minimal-mistakes"
 #theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-# Site Settings
 locale                   : "gr-GR"
 title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
-url                      : "https://tkaradimos.github.io"
+url                      : "https://mibook.github.io"
 baseurl                  : "/gr"
-repository               : "tkaradimos/gr"
+repository               : "mibook/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-
 reCaptcha:
   siteKey                :
   secret                 :
